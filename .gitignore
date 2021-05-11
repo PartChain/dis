@@ -1,0 +1,13 @@
+# IDEs and editors
+/.idea
+# Auto-generated file
+../DIS.iml
+.editorconfig
+
+/deploy/
+/config/
+/build/
+/helpers/
+buildspec-build.yaml
+buildspec-deploy.yaml
+
